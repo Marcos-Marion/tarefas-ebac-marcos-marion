@@ -1,0 +1,30 @@
+1 - Levantar da cama
+2 - Desligar despertador
+3 - Abrir a porta 
+4 - Ir até o banheiro 
+5 - Abrir a torneira 
+6 - Lavar o rosto 
+7 - Sair do banheiro
+8 - Ir até a cozinha
+9 - Pegar uma caneca
+10 - Ligar a cafeteira 
+11 - Pegar uma cápsula 
+12 - Colocar a caneca na cafeteira 
+13 - Abri o compartimento de cápsula da cafeira 
+14 - Colocar a cápsula no compartimento
+15 - Voltar o compartimento para a cafeteira 
+16 - Pressionar o botão de iniciar
+17 - Aguardar término do preparo
+18 - Pegar a caneca
+19 - Tomar o café 
+20 - Ir até a pia
+21 - Lavar a caneca
+22 - Guardar a caneca
+23 - Ir até o banheiro 
+24- Pegar a escova 
+25 - Pegar a pasta 
+26 - Colocar a pasta nas cerdas da escova 
+27 - Escovar os dentes
+28 - Guardar a escova
+29 - Guardar a pasta
+30 - Meditar
